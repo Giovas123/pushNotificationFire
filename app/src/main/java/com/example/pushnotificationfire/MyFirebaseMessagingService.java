@@ -16,5 +16,4 @@ class MyFirebaseMessagingService extends FirebaseMessagingService {
         //sendRegistrationToServer(token);
     }
 
-
 }
